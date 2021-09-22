@@ -1,0 +1,1 @@
+web: gunicorn MovieHub.wsgi
